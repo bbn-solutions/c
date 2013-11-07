@@ -1,4 +1,4 @@
-tools
-=====
+BBN Core classes
+================
 
-A little set of tools needed by most BBN classes
+It's essentially a little set of tools needed by most BBN classes.
