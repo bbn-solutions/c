@@ -1,0 +1,21 @@
+{
+  "name": "bbn/c",
+	"description": "BBN - Core",
+	"keywords": ["database","mvc"],
+	"homepage": "https://github.com/bbns/c",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Thomas Nabet",
+			"email": "thomas.nabet@gmail.com",
+			"homepage": "http://babna.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+	  "psr-0": {"bbn\\c\\": "src/"}
+	}
+}
